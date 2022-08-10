@@ -17,4 +17,4 @@ def buscarMin (montos):
       min = i
   return min
 
-print(buscarMin(historial4))     
+print("El valor mínimo de atención gastada en “Olivia” es de $",buscarMin(historial4))     
